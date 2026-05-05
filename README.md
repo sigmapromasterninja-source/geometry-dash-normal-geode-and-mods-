@@ -1,1 +1,2 @@
-/geometry dash/geode/mods/
+/geometry dash/geode/mods/ COPY ONLY THIS
+
